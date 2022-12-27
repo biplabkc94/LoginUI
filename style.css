@@ -44,7 +44,7 @@ h2 {
     font-weight: 800;
     text-align: center;
     margin-bottom: 35px;
-    color:rgb(51, 209, 253);
+    color:rgb(142, 48, 224);
 }
 
 .input-wrap {
@@ -105,7 +105,7 @@ button {
     border: none;
     font-weight: 600;
     color: #fff;
-    background-color: rgb(59, 151, 45);
+    background-color: rgb(109, 131, 132);
     margin-right: 16px;
     transition: 500ms ease all;
 }
@@ -119,7 +119,7 @@ button:hover {
     display :flex;
     flex-direction: column;
     align-items: center;
-    background-color: #88d9fc;
+    background-color: #778891;
     padding: 60px 40px 40px;
     border-radius: 24px;
 }
